@@ -4,30 +4,26 @@ It is being developed for use in ...
 
 ## Installation ⚒️
 
-> We recommend you use yarn
+> We recommend you use npm
 
 1. Install all packages
 
    ```bash
-   yarn
-
-   # npm install [for npm]
+   npm install
    ```
 
 2. Run development server
 
    ```bash
-   yarn serve
 
-   # npm run serve [for npm]
+   npm run serve
    ```
 
 3. Generate build files for deployment
 
    ```bash
-   yarn build
 
-   # npm run build [for npm]
+   npm run build
    ```
 
 ## Browser Support 🖥️
