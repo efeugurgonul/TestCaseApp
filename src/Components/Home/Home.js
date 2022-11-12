@@ -23,6 +23,36 @@ export default class Home extends Component {
             <div className="Sub-text">Vivamus sodales euismod ornare</div>
             <div className="Point">+600</div>
           </div>
+          <div className="Action-item">
+            <div className="Circle"></div>
+            <div className="Top-text">Proin in sem molestie</div>
+            <div className="Sub-text">Vivamus sodales euismod ornare</div>
+            <div className="Point">+600</div>
+          </div>
+          <div className="Action-item">
+            <div className="Circle"></div>
+            <div className="Top-text">Proin in sem molestie</div>
+            <div className="Sub-text">Vivamus sodales euismod ornare</div>
+            <div className="Point">+600</div>
+          </div>
+          <div className="Action-item">
+            <div className="Circle"></div>
+            <div className="Top-text">Proin in sem molestie</div>
+            <div className="Sub-text">Vivamus sodales euismod ornare</div>
+            <div className="Point">+600</div>
+          </div>
+          <div className="Action-item">
+            <div className="Circle"></div>
+            <div className="Top-text">Proin in sem molestie</div>
+            <div className="Sub-text">Vivamus sodales euismod ornare</div>
+            <div className="Point">+600</div>
+          </div>
+          <div className="Action-item">
+            <div className="Circle"></div>
+            <div className="Top-text">Proin in sem molestie</div>
+            <div className="Sub-text">Vivamus sodales euismod ornare</div>
+            <div className="Point">+600</div>
+          </div>
         </div>
       </div>
     );

@@ -1,17 +1,18 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 // import App from "./App";
-//import Intro from "./Components/Intro/Intro";
+import Intro from "./Components/Intro/Intro";
 //import Header from "./Components/Header/Header";
 //import Home from "./Components/Home/Home";
 //import View from "./Components/Action/View/View";
-import Congrats from "./Components/Action/Congrats/Congrats";
+//import Congrats from "./Components/Action/Congrats/Congrats";
+//import Points from "./Components/Points/Points";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <Congrats />
+    <Intro />
   </React.StrictMode>
 );
 

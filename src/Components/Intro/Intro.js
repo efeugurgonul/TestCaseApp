@@ -18,9 +18,9 @@ export default class Intro extends Component {
             </div>
             <div className="Footer">
               <div className="Button-group">
-                <div className="Button">
+                <button className="Button">
                   <sub className="Button-text">Start</sub>
-                </div>
+                </button>
               </div>
             </div>
           </div>
