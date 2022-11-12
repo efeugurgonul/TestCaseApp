@@ -4,13 +4,14 @@ import ReactDOM from "react-dom/client";
 //import Intro from "./Components/Intro/Intro";
 //import Header from "./Components/Header/Header";
 //import Home from "./Components/Home/Home";
-import View from "./Components/Action/View/View";
+//import View from "./Components/Action/View/View";
+import Congrats from "./Components/Action/Congrats/Congrats";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <View />
+    <Congrats />
   </React.StrictMode>
 );
 
