@@ -1,14 +1,15 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 // import App from "./App";
-// import Intro from "./Components/Intro/Intro";
-import Header from "./Components/Header/Header";
+//import Intro from "./Components/Intro/Intro";
+//import Header from "./Components/Header/Header";
+import Home from "./Components/Home/Home";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <Header />
+    <Home />
   </React.StrictMode>
 );
 
