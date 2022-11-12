@@ -4,12 +4,12 @@ import "./Header.sass";
 export default class Header extends Component {
   render() {
     return (
-      <div className="Main">
-        <div className="Logo">
-          <sub className="Header-logo">TestCase APP</sub>
+      <div className="Header-main">
+        <div className="Header-logo">
+          <sub className="Header-logo-text">TestCase APP</sub>
         </div>
-        <div className="Frame">
-          <div className="Heading">Points: 29,850</div>
+        <div className="Header-frame">
+          <div className="Header-heading">Points: 29,850</div>
         </div>
       </div>
     );
